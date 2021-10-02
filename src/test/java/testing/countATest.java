@@ -11,6 +11,7 @@ class countATest {
 		JunitTesting test = new JunitTesting();
 		int output = test.wordtests("alphabets");
 		assertEquals(2,output);
+		
 	}
 
 }
